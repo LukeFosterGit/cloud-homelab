@@ -1,0 +1,7 @@
+[Unit]
+Description=CHECK Nginx website health
+
+[Service]
+Type=oneshot
+User=foster
+ExecStart=/home/foster/scripts/check-nginx.sh
