@@ -1,6 +1,6 @@
 #Cloud Architechture Homelab
 
-A homelab project created to learn and showcase Linux, networking, automation, containers, IaC, and cloud architechture.
+A homelab project created to learn and showcase Linux, networking, automation, containers, IaC, and cloud architecture.
 
 ## Current Progress 
 
