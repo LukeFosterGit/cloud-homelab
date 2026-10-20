@@ -1,6 +1,7 @@
 # Environment files
 .env
 .env.*
+!.env.example
 
 # Logs
 *.log
@@ -10,3 +11,4 @@
 
 # Editor backup files
 *~
+backups/
